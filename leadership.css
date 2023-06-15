@@ -10,6 +10,11 @@ body {
 	background: #ffffff;
 }
 
+.item:hover {
+  border-bottom: 2px solid #576c31;
+
+}
+
 .header {
 	color: #576c31;
 	font-size: 40px;
